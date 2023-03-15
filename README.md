@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm André
 
-- Currently a front end developer working on projects to gain experience.
+- Front end developer currently working on projects to gain experience.
 - Always looking for problems to solve and ways to improve!
 
 **Feel free to send me any feedback!**
