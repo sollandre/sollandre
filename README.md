@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm André
+
+- Currently a front end developer working on projects to gain experience.
+- Always looking for problems to solve and ways to improve!
+
+**Feel free to send me any feedback!**
 
 <!--
 **sollandre/sollandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
