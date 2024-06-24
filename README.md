@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm André
 
-- Front end developer currently working on projects to gain experience.
+- Full Stack Developer
 - Always looking for problems to solve and ways to improve!
 
 **Feel free to send me any feedback!**
